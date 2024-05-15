@@ -1,5 +1,0 @@
-buy milk
-Learn more about Azure
-Complete first Python project
-Learn more about Python
-Learn more about Flask
